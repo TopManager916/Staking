@@ -21,7 +21,7 @@ Staking is presently accessible on the Sepolia Testnet, where participants will 
 ### Clone
 
 ```
-   git clone https://github.com/EmanuelMendonca/Horseraing-Staking.git
+   git clone https://github.com/TopManager916/Horseraing-Staking.git
 ```
 
 ### Install dependencies
